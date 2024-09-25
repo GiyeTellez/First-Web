@@ -2,7 +2,7 @@
 
 ## Descubre a los mejores Pokémon iniciales según los fans!!
 
-### En 2020 Google lanzó una encuesta al mundo entero en la cual los fans de Pokemon tenian que votar cual es su pokemon favorito de cada generacion esta tuvo una gran repercusión  Y como era de esperar los pokemon iniciales estaban siempre presentes en los 30 mas votados de cada generacion ya que como se sabe este tipo de pokemon suelen recibir mucho cariño por parte de los jugadores. A continuacion basandonos en esos datos conoceras el puesto en el que los pokemon iniciales (starters) han quedado compitiendo entre ellos se realizara un top 3. 
+### En 2020 Google lanzó una encuesta al mundo entero en la cual los fans de Pokemon tenian que votar cual es su pokemon favorito de cada generacion esta tuvo una gran repercusión  Y como era de esperar los pokemon iniciales estaban siempre presentes en los 30 mas votados de cada generacion ya que como se sabe este tipo de pokemon suelen recibir mucho cariño por parte de los jugadores. A continuacion basandonos en esos datos conoceras el puesto en el que los pokemon iniciales (starters) han quedado compitiendo entre ellos. 
 
 ## Primera generacion (Kanto)
 ![Kanto starters](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/pokemon-kanto-region-starters-charmander-bulbasaur-squirtle.jpg)
@@ -11,5 +11,7 @@ Cuando se habla de los tres starters que protagonizan la primera generacion pode
 ###   Squirtle: 18.476 votos (13º lugar de Kanto).                                                                                                                                                                                                 
 ###   Charmander: 14.049 votos (17º lugar de Kanto)
 ![KantoPodium](PodioKanto.png)
+
+## Segunda Generación (Johto)
 
     
