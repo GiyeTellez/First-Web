@@ -13,7 +13,3 @@ Cuando se habla de los tres starters que protagonizan la primera generacion pode
 ![KantoPodium](PodioKanto.png)
 
 ## Segunda Generación (Johto)
-- Element 1
-- Element 2
-- Element 3
-    
