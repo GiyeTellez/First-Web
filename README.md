@@ -16,4 +16,4 @@ Cuando se habla de los tres starters que protagonizan la primera generacion pode
 
 ## Segunda Generación (Johto)
 ![Johto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thegamer.com%2Fpokemon-every-johto-starter-evolution-ranked%2F&psig=AOvVaw1fI4CtO9w-dHV1FYUKyn9y&ust=1727349903161000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiY0tL_3YgDFQAAAAAdAAAAABAE)
-### La segunda generacion recive el nomnbre de Johto y sus tres iniclaes son Cyndaquil, Chikorita y Totodile 
+### La segunda generacion recive el nomnbre de Johto y sus tres iniclaes son Cyndaquil, Chikorita y Totodile. Aunque no tan relevantes como los anteriores, estos 3 protagonistas despiertan la nostalgia de los jugadores. Y de nuevo hay sorpresa con el podio, ya que totodile ocupa el segundo puesto cuando se esperaba la medalla de oro para el, que en su lugar la ocupo Cyndaquill con 28.332 votos (8º lugar en Johto).
