@@ -15,7 +15,7 @@ Cuando se habla de los tres starters que protagonizan la primera generación pod
 ![KantoPodium](PodioKanto.png)
 
 # Segunda Generación (Johto)
-![Jhoto starters](https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/12/starters-featured.jpg)
+![Johto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thegamer.com%2Fpokemon-every-johto-starter-evolution-ranked%2F&psig=AOvVaw1fI4CtO9w-dHV1FYUKyn9y&ust=1727349903161000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiY0tL_3YgDFQAAAAAdAAAAABAE)
 ### La segunda generación recibe el nombre de Johto y sus tres iniciales son Cyndaquil, Chikorita y Totodile. Aunque no tan relevantes como los anteriores, estos 3 protagonistas despiertan la nostalgia de los jugadores. Y de nuevo hay sorpresa con el podio, ya que totodile ocupa el segundo puesto con 22.526 votos (10º lugar en Johto). Cuando se esperaba la medalla de oro para él, que en su lugar la ocupo Cyndaquill con 28.332 votos (8º lugar en Johto). Por último Chikorita ocuparía el tercer puesto con 18.521 votos (14º lugar de Johto).
 
 ## -Cyndaquil 28.332 votos (8º lugar en Johto).
@@ -25,7 +25,7 @@ Cuando se habla de los tres starters que protagonizan la primera generación pod
 ![imatge](https://github.com/user-attachments/assets/781ec974-5da4-43be-9935-d6c1d3424d7c)
 
 # Tercera generación (Hoenn)
-![Hoenn starters](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eurogamer.es%2Fpokemon-go-3-tercera-generacion-lista-rubi-zafiro-hoenn&psig=AOvVaw1FZohT-EoMxruijAiE1Wty&ust=1727521925239000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDx1vH-4ogDFQAAAAAdAAAAABAE)
+![Hoenn Starters](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpokemon.fandom.com%2Fwiki%2FHoenn_first_partner_Pok%25C3%25A9mon&psig=AOvVaw30ZkyyWYpodtESLlFc1lTF&ust=1727525369383000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLj28NOL44gDFQAAAAAdAAAAABAE)
 Una de las mejores generaciones en cuanto a pokemon iniciales se refiere. Cierto es que el encargado de ocupar la plaza de inicial tipo planta ha sido muy decepcionante comparado con sus dos compañeros en cuanto a cariño por parte del fandom se refiere, siendo asi Treecko el top 3 con 9.339 votos (26º lugar en Hoenn). El segundo puesto lo toma Torchic con 12.568 votos (20ª lugar en Hoenn). Y por ultimo la medalla de oro se la lleva sin soprender a nadie Mudkip con 36.920 votos (6º lugar en Hoenn).
 
 ## - Mudkip: 36.920 votos (6º lugar en Hoenn).
@@ -33,5 +33,6 @@ Una de las mejores generaciones en cuanto a pokemon iniciales se refiere. Cierto
 ## - Treecko: 9.339 votos (26º lugar en Hoenn).
 
 ![imatge](https://github.com/user-attachments/assets/781ec974-5da4-43be-9935-d6c1d3424d7c)
+
 
 
