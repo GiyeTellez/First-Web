@@ -32,4 +32,3 @@ Una de las mejores generaciones en cuanto a pokemon iniciales se refiere. Cierto
 ## - Torchic: 12.568 votos (20ª lugar en Hoenn).
 ## - Treecko: 9.339 votos (26º lugar en Hoenn).
 
-
